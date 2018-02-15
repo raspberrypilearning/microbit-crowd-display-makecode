@@ -1,25 +1,15 @@
-## Introduction
+## Design your image
 
-Add project description here. What will learners be making?
+1. Connect the micro:bit to your computer using the USB cable
 
-### What you will make
+2. Open the MakeCode webpage ([makecode.microbit.org](https://makecode.microbit.org/)) or run the offline versions (pxt serve)
 
-Add something here to showcase here, for example:
+3. Drag these blocks from the **Basic** group
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
+    ![](images/microbit-1.png)
 
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
+4. Design your own image for LEDs
 
-### What you will learn
+5. Click Download and then follow the instructions to copy the `.hex` file to your Micro:Bit. The LEDS on the Micro:Bit should light up and show your pattern.
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
-
-+ [Add curriculum strand/level description.](https://www.raspberrypi.org/curriculum/strand/level){:target="_blank"}
-
-### Additional information for educators
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
-
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+![](images/microbit-1.png)
